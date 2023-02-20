@@ -79,18 +79,36 @@
     // console.log(singleString);
 
 
-// *************** Question no. ***************
+// *************** Question no.13 ***************
+
+// var myArray = [];
+
+    // myArray.push("Keyboard ");
+    // myArray.push("Mouse");
+    // myArray.push("Joystick");
+
+    // while(myArray.length > 0) {
+    // console.log(myArray.shift());
+    // }
+
+
+// *************** Question no.14 ***************
+
+    // var array = [];
+    // array.push("Keyboard");
+    // array.push("Joystick");
+    // array.push("Mouse");
+    // array.push("Sensor");
+
+    // while (array.length > 0) {
+    // console.log(array.pop());
+    // }
 
 
 
 
-// *************** Question no. ***************
 
-
-
-
-
-// *************** Question no. ***************
+// *************** Question no.15 ***************
 
 
 
